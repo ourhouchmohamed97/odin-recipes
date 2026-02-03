@@ -20,6 +20,7 @@ The objective was to build a functional directory structure **without worrying a
 ## 🚀 Live Demo
 
 🌐 **View the deployed website:**
+
 [Live Demo](#) <!-- replace # with your GitHub Pages link -->
 
 ---
@@ -59,7 +60,7 @@ To run this project on your local machine:
 
 1. **Clone the repository**
    ```bash
-        git clone git@github.com:your-username/odin-recipes.git
+        git clone https://github.com/ourhouchmohamed97/odin-recipes.git
     ```
 
 2. **Navigate into the project folder**
@@ -68,3 +69,10 @@ To run this project on your local machine:
     ```
 
 3. **Open index.html in your preferred web browser**
+
+
+## 📚 Resources
+
+[The Odin Project – Foundations](https://www.theodinproject.com/lessons/foundations-recipes)
+
+[MDN Web Docs – HTML Basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
